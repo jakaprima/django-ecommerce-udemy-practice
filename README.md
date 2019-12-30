@@ -1,0 +1,1 @@
+Tutorial practice Ecommerce Django from Udemy
